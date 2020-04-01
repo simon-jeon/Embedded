@@ -1,1 +1,1 @@
-Git Hub 오픈소스
+Git Hub 오픈소스 Awesome
